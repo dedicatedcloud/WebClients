@@ -1,0 +1,5 @@
+# .gitpod.yml
+
+tasks:
+  - name: Install Dependencies
+    init: yarn install
